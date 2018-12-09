@@ -1,0 +1,48 @@
+baseURL = "https://leowgweb.com.br/"
+languageCode = "pt-br"
+title = "Léo WG - leowgweb"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Léo"
+    lastName = "WG"
+    address = "Guanhães, MG"
+    phone = "1-555-555-1234"
+    contactNote = "Tecnologias Web, UX e Design"
+    profileImage = "img/TechChat.png"
+    email = "contato@leowgweb.com.br"
+    description = "Gerente de Desenvolvimento de Software na Eagle Tecnologia, Joomleiro, Desenvolvedor Laravel e VueJS, Designer de Interfaces e apixonado por arte, música e coisas inexplicáveis."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/leowgweb/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/lauroguedes"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/leowg"
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/leowgweb"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/leowgweb/"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
