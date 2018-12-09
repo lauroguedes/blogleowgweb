@@ -9,7 +9,7 @@ theme = "hugo-resume"
     address = "Guanhães, MG"
     phone = "1-555-555-1234"
     contactNote = "Tecnologias Web, UX e Design"
-    profileImage = "img/TechChat.png"
+    profileImage = "img/myprofile.png"
     email = "contato@leowgweb.com.br"
     description = "Gerente de Desenvolvimento de Software na Eagle Tecnologia, Joomleiro, Desenvolvedor Laravel e VueJS, Designer de Interfaces e apixonado por arte, música e coisas inexplicáveis."
     favicon = "images/favicon.ico"
@@ -43,6 +43,14 @@ theme = "hugo-resume"
 [[params.handles]]
     name = "Instagram"
     link = "https://www.instagram.com/leowgweb/"
+
+[[params.handles]]
+    name = "YouTube"
+    link = "https://www.youtube.com/leowgweb"
+
+[[params.handles]]
+    name = "Medium"
+    link = "https://medium.com/@leowg"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
