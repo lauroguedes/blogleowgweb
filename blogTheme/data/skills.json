@@ -1,23 +1,22 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Arquitetura",
+      "skills":[ "DNS","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Linguagens, Sistemas Operacionais & Ferramentas",
+      "skills":[ "php","javascript","html","css","git","linux","bash"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Plataformas de Desenvolvimento e Administração",
+      "skills":[ "Atlassian","Bitbucket","NGINX","MySQL","Joomla","Github"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Linux","link":"https://bosh.io"},
+          {"name":"IBM Watson","link":"https://www.ibm.com/watson/"}
       ]
   }
 ]
